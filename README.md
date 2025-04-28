@@ -5,6 +5,7 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on the Ti
 
 ## Project Structure
 - **TASK05.ipynb**: Jupyter notebook containing the complete EDA process, visualizations, and observations.
+- **Titanic_EDA_Report.pdf**: Documented report about the task performed
 
 ## Dataset
 The dataset used is the **Titanic dataset** (which can be found on Kaggle) containing two columns:
